@@ -5,7 +5,7 @@ This data set contains Computer networks random topologies where each topology i
 Parameters----------------::-------Value
 ------------------------------------------------------------------------
 
-Area size ----------------::--------size200m x 200m
+Area size ----------------::-------- 200m x 200m
 
 Transmission range--------::--------Vary [15 20 25 30] meter 
 
