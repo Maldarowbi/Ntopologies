@@ -4,9 +4,13 @@ This data set contains Computer networks random topologies where each topology i
 
 Parameters           :      Value
 ------------------------------------------------------------------------
+
 Area                 :     size200m x 200m
+
 Transmission range   :     Vary [15 20 25 30] meter 
+
 #of nodes            :     Vary [50 75 100 125 150 175 200]
+
 Energy Level         :   Randomly generated (0:1)
 
 
