@@ -1,6 +1,6 @@
 # Ntopologies
 
-This data set contains Computer networks random topologies where each topology is diffeeret either in the number of nodes or the communication range. 
+This dataset contains a set of computer networks random topologies each of which  is diffeeret either in the number of nodes or the communication range. 
 
 Parameters----------------::-------Value
 ------------------------------------------------------------------------
